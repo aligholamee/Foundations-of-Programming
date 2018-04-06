@@ -1,0 +1,14 @@
+﻿با توجه به کد زیر:
+
+int i;
+int *pi;
+double d;
+double *pd;
+
+
+کدام یک نادرست است؟ چرا؟
+pd=i;
+pi=&i;
+pd=&pi;
+*pi=&i;
+i=&pi

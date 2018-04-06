@@ -1,0 +1,26 @@
+﻿خروجی تکه کد زیر را بنویسید؟
+
+#include <iostream>
+using namespace std
+
+int main()
+
+{
+
+float x=0.001F;
+
+
+if(4*x==0.004F)
+    cout<<"True"<<endl;
+else
+    cout<<"False"<<endl;
+
+if(5*x==0.005F)
+    cout<<"True"<<endl;
+else
+    cout<<"False"<<endl;
+
+
+
+
+}

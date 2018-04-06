@@ -1,0 +1,4 @@
+﻿تفاوت دو کد زیر را توضیح دهید.
+
+1: void foo(int* const ptr);
+2: void foo(int* ptr);
